@@ -1,0 +1,8 @@
+question,option1,option2,option3,option4,answer,difficulty
+What is the capital of France?,Berlin,Madrid,Paris,Rome,3,easy
+Which planet is known as the Red Planet?,Earth,Venus,Mars,Jupiter,3,easy
+Who wrote 'Macbeth'?,Charles Dickens,William Shakespeare,Mark Twain,J.K. Rowling,2,medium
+What is the powerhouse of the cell?,Nucleus,Mitochondria,Ribosome,Chloroplast,2,medium
+What is the derivative of sin(x)?,cos(x),-cos(x),-sin(x),tan(x),1,hard
+Who developed the theory of relativity?,Newton,Einstein,Galileo,Curie,2,medium
+Which algorithm is used for classification?,K-Means,Linear Regression,Decision Tree,Apriori,3,hard
